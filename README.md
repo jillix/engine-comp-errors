@@ -1,6 +1,6 @@
-# engine-comp-crud-errors
+# engine-comp-crud-errors [![Version](https://img.shields.io/npm/v/engine-comp-crud-errors.svg)](https://www.npmjs.com/package/engine-comp-crud-errors) [![Downloads](https://img.shields.io/npm/dt/engine-comp-crud-errors.svg)](https://www.npmjs.com/package/engine-comp-crud-errors)
 
-Errors for the CRUD modules.
+> Errors for the CRUD modules.
 
 ## Installation
 
@@ -51,6 +51,8 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`engine-composition-crud`](https://github.com/jillix/engine-composition-crud#readme) by jillix
 
 ## License
 
